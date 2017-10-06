@@ -1,0 +1,5 @@
+H:\Documents\Algo_GEO\cours1\TD1\TD1_v2\TD1_v2\obj\x86\Debug\TD1_v2.exe
+H:\Documents\Algo_GEO\cours1\TD1\TD1_v2\TD1_v2\bin\Debug\TD1_v2.exe
+H:\Documents\Algo_GEO\cours1\TD1\TD1_v2\TD1_v2\bin\Debug\TD1_v2.pdb
+H:\Documents\Algo_GEO\cours1\TD1\TD1_v2\TD1_v2\obj\x86\Debug\TD1_v2.csprojResolveAssemblyReference.cache
+H:\Documents\Algo_GEO\cours1\TD1\TD1_v2\TD1_v2\obj\x86\Debug\TD1_v2.pdb

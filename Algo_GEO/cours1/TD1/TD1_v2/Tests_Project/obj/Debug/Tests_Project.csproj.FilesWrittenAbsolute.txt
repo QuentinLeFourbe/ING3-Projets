@@ -1,0 +1,7 @@
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/bin/Debug/Tests_Project.dll.mdb
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/bin/Debug/Tests_Project.dll
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/obj/Debug/Tests_Project.dll
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/obj/Debug/Tests_Project.dll.mdb
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/bin/Debug/TD1_v2.exe
+/home/eisti/Documents/ING3/Algo_GEO/cours1/TD1/TD1_v2/Tests_Project/bin/Debug/TD1_v2.exe.mdb
