@@ -20,8 +20,16 @@ namespace TD1_v2
 			this.l3 = z;
             this.l4 = w;
 		}
-	
-		public void setIdentite(){
+
+        public Matrice(Vecteur x, Vecteur y, Vecteur z)
+        {
+            this.l1 = x;
+            this.l2 = y;
+            this.l3 = z;
+            this.l4 = new Vecteur(0,0,0,1);
+        }
+
+        public void setIdentite(){
 			this.l1 = new Vecteur(1,0,0,this.l1.w);
 			this.l2 = new Vecteur(0,1,0, this.l2.w);
 			this.l3 = new Vecteur(0,0,1, this.l3.w);
@@ -248,8 +256,8 @@ namespace TD1_v2
 		}
 
 		protected double getCofacteur(int x, int y){
-			Vecteur3 c1 = new Vecteur3();
-			Vecteur3 c2 = new Vecteur3();
+			Vecteur c1 = new Vecteur();
+			Vecteur c2 = new Vecteur();
 
 			double[] r1;
 			double[] r2;

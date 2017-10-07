@@ -2,16 +2,15 @@
 
 namespace TD1_v2
 {
-	public class Matrice43 : Matrice3
+	public class Matrice43 : Matrice
 	{
-		public Vecteur l4 { get; set;}
 
 		public Matrice43 ()
 		{
 		}
 
 		public Matrice43(Vecteur3 l1, Vecteur3 l2, Vecteur3 l3, Vecteur3 l4) : base(l1,l2,l3){
-			this.l4 = l4;
+			base.l4 = l4;
 		}
 
 
