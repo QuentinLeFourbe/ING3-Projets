@@ -1,0 +1,9 @@
+﻿  OpenGL.cpp
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(284): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(285): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\quentin\documents\github\ing3-projets\opengl\opengl\opengl\opengl.cpp(286): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OpenGL.vcxproj -> D:\Quentin\Documents\GitHub\ING3-Projets\OpenGL\OpenGL\Debug\OpenGL.exe
+  OpenGL.vcxproj -> D:\Quentin\Documents\GitHub\ING3-Projets\OpenGL\OpenGL\Debug\OpenGL.pdb (Partial PDB)
