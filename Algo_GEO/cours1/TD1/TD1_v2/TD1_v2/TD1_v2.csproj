@@ -33,13 +33,17 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Coord\cCartesienne.cs" />
+    <Compile Include="Models\Coord\cEuler.cs" />
+    <Compile Include="Models\Coord\cPolSphere.cs" />
+    <Compile Include="Models\Coord\cQuaternion.cs" />
+    <Compile Include="Models\Matrices\Matrice33.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Models\Matrice.cs" />
-    <Compile Include="Models\Vecteur.cs" />
-    <Compile Include="Models\Vecteur3.cs" />
-    <Compile Include="Models\Matrice43.cs" />
-    <Compile Include="Models\Matrice44.cs" />
+    <Compile Include="Models\Matrices\Matrice.cs" />
+    <Compile Include="Models\Matrices\Vecteur.cs" />
+    <Compile Include="Models\Matrices\Vecteur3.cs" />
+    <Compile Include="Models\Matrices\Matrice43.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup />

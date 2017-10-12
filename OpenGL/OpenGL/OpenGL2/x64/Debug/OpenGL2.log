@@ -1,0 +1,9 @@
+﻿  OpenGL2.cpp
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(275): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(292): warning C4312: 'type cast': conversion from 'int' to 'GLvoid *' of greater size
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(389): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(454): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+h:\documents\github\ing3-projets\opengl\opengl\opengl2\opengl2.cpp(459): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OpenGL2.vcxproj -> H:\Documents\GitHub\ING3-Projets\OpenGL\OpenGL\x64\Debug\OpenGL2.exe
+  OpenGL2.vcxproj -> H:\Documents\GitHub\ING3-Projets\OpenGL\OpenGL\x64\Debug\OpenGL2.pdb (Full PDB)
