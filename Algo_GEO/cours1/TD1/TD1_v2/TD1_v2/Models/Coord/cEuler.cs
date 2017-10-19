@@ -26,5 +26,39 @@ namespace TD1_v2.Models.Coord
             Console.WriteLine("phi = %d, teta = %d, alpha = %d", phi, teta, alpha);
         }
 
+        public cEuler getInterpolationPhi(cEuler angle, double t)
+        {
+            if (t > 1 || t < 0)
+            {
+                throw new ArgumentException("t doit être compris entre 0 et 1");
+            }
+
+            var res = this;
+            res.phi += t * (angle.phi - res.phi);
+            return res;
+        }
+
+        public cEuler getInterpolationTeta(cEuler angle, double t)
+        {
+            if (t > 1 || t < 0)
+            {
+                throw new ArgumentException("t doit être compris entre 0 et 1");
+            }
+            var res = this;
+            res.teta += t * (angle.teta - res.teta);
+            return res;
+        }
+
+        public cEuler getInterpolationAlpha(cEuler angle, double t)
+        {
+            if (t > 1 || t < 0)
+            {
+                throw new ArgumentException("t doit être compris entre 0 et 1");
+            }
+            var res = this;
+            res.alpha += t * (angle.alpha - res.alpha);
+            return res;
+        }
+
     }
 }

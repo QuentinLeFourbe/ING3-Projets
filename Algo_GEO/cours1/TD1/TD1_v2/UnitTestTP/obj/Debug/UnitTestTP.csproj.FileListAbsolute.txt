@@ -1,0 +1,15 @@
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\obj\Debug\UnitTestTP.csprojResolveAssemblyReference.cache
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\obj\Debug\UnitTestTP.csproj.CoreCompileInputs.cache
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\UnitTestTP.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\UnitTestTP.pdb
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\TD1_v2.exe
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\TD1_v2.pdb
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\obj\Debug\UnitTestTP.dll
+D:\Quentin\Documents\GitHub\ING3-Projets\Algo_GEO\cours1\TD1\TD1_v2\UnitTestTP\obj\Debug\UnitTestTP.pdb

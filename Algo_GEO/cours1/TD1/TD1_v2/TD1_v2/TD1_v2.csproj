@@ -38,6 +38,7 @@
     <Compile Include="Models\Coord\cPolSphere.cs" />
     <Compile Include="Models\Coord\cQuaternion.cs" />
     <Compile Include="Models\Matrices\Matrice33.cs" />
+    <Compile Include="Models\Polygon\Rayon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Matrices\Matrice.cs" />

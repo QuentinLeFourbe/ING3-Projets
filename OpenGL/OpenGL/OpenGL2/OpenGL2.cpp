@@ -43,7 +43,7 @@ GLuint vboCube;
 
 GLuint vboUniCube;
 GLuint vaoUniCube;
-vector<glm::vec4> vUniCube(36);
+vector<glm::vec4> vUniCube(72);
 
 GLuint program; 
 int mouseX;
@@ -387,7 +387,7 @@ void uniCube() {
 	glGenBuffers(1, &vboUniCube);
 	glBindBuffer(GL_ARRAY_BUFFER, vboUniCube);
 	int sp2 = vUniCube.size() * sizeof(glm::vec4);
-	//int sc = vColors.size() * sizeof(glm::vec4);
+	
 	
 
 	glBufferData(GL_ARRAY_BUFFER, sp2, NULL, GL_STATIC_DRAW);

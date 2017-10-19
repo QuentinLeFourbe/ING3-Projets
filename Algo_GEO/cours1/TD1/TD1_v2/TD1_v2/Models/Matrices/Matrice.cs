@@ -29,6 +29,37 @@ namespace TD1_v2
             this.l4 = new Vecteur(0,0,0,1);
         }
 
+        public Matrice(double x11, double x12, double x13, double x14,
+            double x21, double x22, double x23, double x24,
+            double x31, double x32, double x33, double x34,
+             double x41, double x42, double x43, double x44)
+        {
+            this.l1 = new Vecteur(x11,x12,x13,x14);
+            this.l2 = new Vecteur(x21, x22, x23, x24);
+            this.l3 = new Vecteur(x31, x32, x33, x34);
+            this.l4 = new Vecteur(x41, x42, x43, x44);
+        }
+
+        public Matrice(double x11, double x12, double x13, double x14,
+            double x21, double x22, double x23, double x24,
+            double x31, double x32, double x33, double x34)
+        {
+            this.l1 = new Vecteur(x11, x12, x13, x14);
+            this.l2 = new Vecteur(x21, x22, x23, x24);
+            this.l3 = new Vecteur(x31, x32, x33, x34);
+            this.l4 = new Vecteur(0, 0, 0, 1);
+        }
+
+        public Matrice(double x11, double x12, double x13,
+            double x21, double x22, double x23,
+            double x31, double x32, double x33)
+        {
+            this.l1 = new Vecteur(x11, x12, x13, 1);
+            this.l2 = new Vecteur(x21, x22, x23, 1);
+            this.l3 = new Vecteur(x31, x32, x33, 1);
+            this.l4 = new Vecteur(0, 0, 0, 1);
+        }
+
         public void setIdentite(){
 			this.l1 = new Vecteur(1,0,0,this.l1.w);
 			this.l2 = new Vecteur(0,1,0, this.l2.w);
